@@ -1,0 +1,89 @@
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+span,
+ul,
+li,
+a,
+.btn-default,
+textarea {
+  margin: 0;
+  padding: 0;
+}
+* {
+  margin: 0;
+  padding: 0;
+}
+a:hover {
+  text-decoration: none;
+}
+a:focus {
+  text-decoration: none;
+}
+ul {
+  list-style: none;
+}
+
+.weadther-app-heading h1 {
+  color: #fff;
+  padding: 15px 0;
+}
+
+section.weadther-app-section {
+  background: grey;
+  padding: 148px 0;
+  /* height: 100vh; */
+}
+
+.weadther-app-heading h1 span {
+  padding: 0 25px;
+  font-size: 31px;
+}
+
+.weadther-app-heading form input {
+  border: 0;
+  padding: 6px 15px;
+  width: 32%;
+  border-radius: 10px;
+  font-size: 20px;
+}
+
+.weadther-app-heading button {
+  border: 0;
+  padding: 8px 30px;
+  border-radius: 10px;
+  background: cadetblue;
+  color: #fff;
+  font-size: 19px;
+  margin: 0 15px;
+}
+
+.cites-detail h4 {
+  color: cadetblue;
+  font-size: 30px;
+}
+
+.cites-detail {
+  box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px,
+    rgba(0, 0, 0, 0.3) 0px 30px 60px -30px;
+  background: #fff;
+  margin: 10px 0;
+  padding: 18px 10px;
+  border-radius: 10px;
+  text-align: center;
+}
+
+.weadther-app-heading {
+  margin: 30px 0;
+  text-align: center;
+}
+
+.cites-detail h4 span {
+  color: #000;
+  padding: 0 20px;
+  font-size: 24px;
+}
